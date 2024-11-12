@@ -1,0 +1,39 @@
+div#translate{
+    width: 200px;
+    height: 200px;
+    border-radius: 5px;
+    color: white;
+    background-color:#00014e;
+    transform: translate(100px, 50px);
+    padding: 10px;
+}
+#div#scaleX{
+    width: 200px;
+    height: 200px;
+    border-radius: 5px;
+    color: white;
+    background-color:#00014e;
+    padding: 10px;
+    margin-left: 250px;
+    transform: scaleX(3);
+}
+div#scaleY{
+    width: 200px;
+    height: 200px;
+    border-radius: 5px;
+    color: white;
+    background-color:#00014e;
+    padding: 10px;
+    margin-left: 250px;
+    transform: scaleY(3);
+}
+div#skewX{
+    width: 200px;
+    height: 200px;
+    border-radius: 5px;
+    color: white;
+    background-color:#00014e;
+    padding: 10px;
+    margin: 100px;
+    transform: skewX(-40deg);
+}
